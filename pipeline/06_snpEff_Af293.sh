@@ -72,7 +72,7 @@ bcftools view -Oz -o $OUTVCF.gz $OUTVCF
 bcftools query -H -f '%CHROM\t%POS\t%REF\t%ALT{0}[\t%TGT]\t%INFO/ANN\n' $OUTVCF.gz > $OUTTAB
 
 echo "running matrix dump"
-../../scripts/snpEff_2_tab.py $OUTVCF ../$REFGENOME > $PREFIX.snpEff.matrix.tab
+../scripts/snpEff_2_tab.py $OUTVCF ../$REFGENOME > $PREFIX.snpEff.matrix.tab
 pigz -f -k $PREFIX.snpEff.matrix.tab $OUTTAB
-../../scripts/map_snpEff2domains.py --vcf $OUTVCF --domains ../genome/FungiDB-39_AfumigatusAf293_InterproDomains.txt --output $OUTDOMAIN
+../scripts/map_snpEff2domains.py --vcf $OUTVCF --domains ../genome/FungiDB-39_AfumigatusAf293_InterproDomains.txt --output $OUTDOMAIN
 
