@@ -1,2 +1,3 @@
-# Afum_Obar
-Aspergillus fumigatus Josh Obar Strains
+# Afumigatus Obar
+
+Analysis of Josh Obar strains
