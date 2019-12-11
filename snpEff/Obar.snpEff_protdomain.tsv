@@ -28,7 +28,6 @@ Chr2_A_fumigatus_Af293	2719959	frameshift_variant	HIGH	Afu2g10620	1397delG	Gly46
 Chr2_A_fumigatus_Af293	2719959	frameshift_variant	HIGH	Afu2g10620	1397delG	Gly466fs	GC	[G]	466	serkin_6	SM00220	294	551	173	174
 Chr2_A_fumigatus_Af293	3258709	disruptive_inframe_deletion	MODERATE	Afu2g12680	44_46delCTC	Pro15del	AGAG	[A]	15						
 Chr2_A_fumigatus_Af293	3523340	frameshift_variant	HIGH	Afu2g13540	1314_1323delCCCCGCCTTC	Ser438fs	GCCCCGCCTTC	[G]	438						
-Chr2_A_fumigatus_Af293	3523350	conservative_inframe_insertion	MODERATE	Afu2g13540	1323_1324insAAAAGACGGAGA	Phe441_Asp442insLysArgArgArg	C	[CAAAAGACGGAGA]	441						
 Chr2_A_fumigatus_Af293	3523352	frameshift_variant	HIGH	Afu2g13540	1326_1327delTC	Pro443fs	ATC	[A]	443						
 Chr2_A_fumigatus_Af293	4707908	frameshift_variant	HIGH	Afu2g17650	1194dupC	Ser399fs	A	[AG]	399	TRP	PF06011	169	589	231	232
 Chr2_A_fumigatus_Af293	4707912	frameshift_variant	HIGH	Afu2g17650	1190delC	Pro397fs	AG	[A]	397	TRP	PF06011	169	589	229	230
