@@ -1,3 +1,3 @@
-# Afumigatus Obar
+# Afumigatus LH-EVOL
 
-Analysis of Josh Obar strains
+Analysis of Lung Homogenate Evolved strains
